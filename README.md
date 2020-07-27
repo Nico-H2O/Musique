@@ -1,3 +1,3 @@
 # Musique
 
-Une description de ma musique que j'aime
+Une description de la musique que j'aime
